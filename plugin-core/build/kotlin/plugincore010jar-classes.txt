@@ -1,0 +1,1 @@
+/Users/skyezer/Projects/orgs/hellfire/inferno-plugin-template/plugin-core/build/classes/kotlin/main/app/hellfire/myplugin/MyPlugin.class
